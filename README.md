@@ -83,13 +83,17 @@ Real-time data tracking, predictive alerts, and dashboard-based analytics.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkartoradmal&show_icons=true&theme=default&title_color=1DA1F2&icon_color=1DA1F2" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkartoradmal&layout=compact&title_color=1DA1F2" height="150"/>
+  <a href="https://github.com/omkartoradmal">
+    <img src="https://github-readme-stats.vercel.app/api?username=omkartoradmal&show_icons=true&theme=default&title_color=1DA1F2&icon_color=1DA1F2" width="47%" />
+  </a>
+  <a href="https://github.com/omkartoradmal">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkartoradmal&layout=compact&title_color=1DA1F2" width="47%" />
+  </a>
 </p>
+
 
 ---
 
 <p align="center" style="color:#1DA1F2;">
   <strong>Building with purpose, learning with passion, contributing with consistency.</strong>
 </p>
-](https://github.com/omkartoradmal/omkartoradmal)
