@@ -1,3 +1,8 @@
+<!-- HEADER TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=500&lines=Omkar+Toradmal;Full+Stack+Developer;AI+Explorer;Open+Source+Contributor" alt="Typing animation" />
+</p>
+
 <h1 align="center" style="color:#1DA1F2;">Omkar Toradmal</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Tech Explorer</h3>
 
@@ -7,14 +12,14 @@
 
 ---
 
-## Projects in Progress
+## 🚀 Projects in Progress
 
 **Smart Health Monitoring Tracker (IoT + AI)**  
 Real-time data tracking, predictive alerts, and dashboard-based analytics.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
@@ -40,34 +45,34 @@ Real-time data tracking, predictive alerts, and dashboard-based analytics.
 
 ---
 
-## Focus Areas
+## 🧠 Focus Areas
 
-- Building modern full-stack web applications (MERN, Next.js, Spring Boot)
-- Exploring AI/ML with Python and OpenAI APIs
-- Deploying apps with Firebase, Vercel, and Docker
-- Writing clean, scalable code with DSA and OOP principles
-
----
-
-## GitHub Milestones in Progress
-
-- Pull Shark – Open and merge pull requests on OSS projects  
-- Pair Extraordinaire – Collaborate via co-authored commits  
-- YOLO – Confidently handle solo merges  
-- Quickdraw – Contribute to projects in real-time windows  
+- Building modern full-stack applications (MERN, Next.js, Spring Boot)
+- Exploring AI/ML with Python & OpenAI APIs
+- Scalable backend systems with Firebase, Docker
+- Writing clean, optimized code with DSA & OOP
 
 ---
 
-## Learning Right Now
+## 🎯 GitHub Milestones in Progress
 
-- Next.js with Tailwind and GraphQL  
-- Firebase Auth & Firestore for scalable backends  
-- DevOps automation with GitHub Actions and Docker  
-- Prompt Engineering for Generative AI apps
+- 🔹 Pull Shark – Contributing to open-source PRs  
+- 🔹 Pair Extraordinaire – Collaborative commits  
+- 🔹 YOLO – Independent, confident merges  
+- 🔹 Quickdraw – Real-time issue/PR contributions
 
 ---
 
-## Contact
+## 📘 Currently Learning
+
+- Next.js + Tailwind + GraphQL  
+- Firebase Auth & Firestore  
+- GitHub Actions + Docker  
+- Prompt Engineering with LLMs
+
+---
+
+## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkartoradmal65@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-toradmal-878415265/)
@@ -75,7 +80,7 @@ Real-time data tracking, predictive alerts, and dashboard-based analytics.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkartoradmal&show_icons=true&theme=default&title_color=1DA1F2&icon_color=1DA1F2" height="150"/>
@@ -85,5 +90,5 @@ Real-time data tracking, predictive alerts, and dashboard-based analytics.
 ---
 
 <p align="center" style="color:#1DA1F2;">
-  Building what's next, one line at a time.
+  <strong>Building with purpose, learning with passion, contributing with consistency.</strong>
 </p>
