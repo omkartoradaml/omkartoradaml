@@ -1,4 +1,4 @@
-<!-- HEADER TYPING ANIMATION -->
+[<!-- HEADER TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=500&lines=Omkar+Toradmal;Full+Stack+Developer;AI+Explorer;Open+Source+Contributor" alt="Typing animation" />
 </p>
@@ -92,3 +92,4 @@ Real-time data tracking, predictive alerts, and dashboard-based analytics.
 <p align="center" style="color:#1DA1F2;">
   <strong>Building with purpose, learning with passion, contributing with consistency.</strong>
 </p>
+](https://github.com/omkartoradmal/omkartoradmal)
